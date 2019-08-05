@@ -9,7 +9,9 @@ end
 
 def monopoly_with_second_tier
   solohash = { 
-    :railroads => {}  
+    :railroads => {
+      :pieces => {}
+    }  
   }
   
 end
