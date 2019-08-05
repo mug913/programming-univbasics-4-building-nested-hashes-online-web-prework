@@ -21,6 +21,7 @@ def monopoly_with_third_tier
    solohash = { 
     :railroads => {
       :pieces => 4,
+      :names => {},
       :rent_in_dollars => {
         :keyone => 1,
         :keytwo => 2,
